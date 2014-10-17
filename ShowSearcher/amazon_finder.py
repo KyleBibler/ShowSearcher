@@ -5,9 +5,9 @@ from amazonproduct import API
 
 browse_node = "2858778011"
 new_browse_node = ""
-access_key = 'AKIAJLJSWHEAZKT7CI3A'
-secret_key = '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'
-associate_tag = 'AKIAJLJSWHEAZKT7CI3A'
+access_key = '??'
+secret_key = '??'
+associate_tag = '??'
 
 api = API(cfg='.amazon-product-api', locale='us')
 amazon = AmazonAPI(access_key, secret_key, associate_tag)
